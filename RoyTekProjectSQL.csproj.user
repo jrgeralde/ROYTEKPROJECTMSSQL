@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="customControls\royCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royMaskedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royN0TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royN2TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royN5TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royN6TextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="customControls\royTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="frmAskDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAskFloat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAskInt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAskString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAskStringPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBasic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBranches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDetail_PO_RR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmImaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmImaster2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmItemClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLockout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMessageOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMessageWarning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMessageYesNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMessageYesNoCancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPickItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPickUserBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSearchDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSummary_PO_RR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUserEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmVendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
